@@ -31,6 +31,4 @@ logger.setLevel(logging.INFO)
 logger.addHandler(log_handler)
 logger.addHandler(logging.StreamHandler())  # Print logs to console
 
-# Example log messages
-logger.info("I am Logger.")
 
