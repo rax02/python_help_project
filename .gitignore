@@ -1,5 +1,8 @@
 logs/
 *.log
+artifacts/
+data_source/
+raw_file/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
