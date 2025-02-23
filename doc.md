@@ -21,3 +21,5 @@ create setup.py module
 create __init__.py file in src
 pip install -r requiremtns.txt
 
+- Create pre-defined project structure
+pip install cookiecutter
