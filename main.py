@@ -1,6 +1,6 @@
-from src.components.data_ingestion import DataIngestion
-import src.logging.logging as logging
-from src.exception.exception import ProjectException
+from ml_src.components.data_ingestion import DataIngestion
+import ml_src.logging.logging as logging
+from ml_src.exception.exception import ProjectException
 
 
 if __name__ == "__main__":

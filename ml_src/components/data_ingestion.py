@@ -2,7 +2,7 @@ import os
 import pandas as pd
 from dataclasses import dataclass
 from sklearn.model_selection import train_test_split
-from src.logging import logging
+from ml_src.logging import logging
 
 
 @dataclass

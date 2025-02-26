@@ -1,6 +1,6 @@
 import traceback
-import src.constants.error_messages as error_messages
-import src.logging.logging as logging
+import ml_src.constants.error_messages as error_messages
+import ml_src.logging.logging as logging
 
 class ProjectException(Exception):
     """
