@@ -1,0 +1,10 @@
+model:
+  name: "your-llm-model-name"
+  path: "/path/to/model/weights"
+
+gpu:
+  device: 0
+  memory: 16GB
+
+ollama:
+  port: 8000
