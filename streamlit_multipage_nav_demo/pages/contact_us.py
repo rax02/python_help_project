@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Include custom CSS for Helvetica font
-with open("css/default.css") as f:
+with open("streamlit_multipage_nav_demo/css/default.css") as f:
     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
 st.title("Contact Us")

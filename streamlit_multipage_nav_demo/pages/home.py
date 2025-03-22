@@ -2,11 +2,11 @@ import streamlit as st
 import time
 
 # Include custom CSS for Helvetica font
-with open("css/default.css") as f:
+with open("streamlit_multipage_nav_demo/css/default.css") as f:
     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
 # Include custom CSS for animations and styling
-with open("css/home.css") as f:
+with open("streamlit_multipage_nav_demo/css/home.css") as f:
     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
 # Title and subtitle with animations
