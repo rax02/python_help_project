@@ -3,6 +3,9 @@ logs/
 artifacts/
 data_source/
 raw_file/
+*.mp3
+*.mp4
+*.jpg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
